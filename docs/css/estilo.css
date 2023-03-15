@@ -1,0 +1,38 @@
+body{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+width: 90%;
+
+}
+h1{
+    color: rgb(0,0,205);
+    border-bottom: dotted 1rem blueviolet;
+    
+    font-size: 3rem;
+    margin-left: 6%;
+    margin-right: 12%;
+}
+.subT{
+    color: rgba(155, 32, 126, 0.911);
+    margin: 4%;
+    margin-left: 6%;
+}
+.contato{
+    border: solid black;
+    margin: 10%;
+    padding: 5%;
+    margin-top: 0%;
+    width: 60%;
+    text-align: center;
+
+    
+}
+.contato li{
+    text-align: left;
+}
+
+.cont{
+    
+    text-align: justify;
+    margin-left: 6%;
+    margin-right: 12%;
+}
